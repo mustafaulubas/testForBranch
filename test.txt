@@ -3,3 +3,5 @@ this is the first sentence for new branch
 this is on the new branch ..
 
 I am a bad collaborator and I have committed straight to master!
+
+HERE IS THE FINAL LINE OF TEXT
